@@ -63,6 +63,8 @@ Beekeepers face several challenges:
 📊 Temperature increase signals potential bee swarming.
 
 🌬 Air quality sensors detect pollution affecting bee health.
+
+
 ![Image](https://github.com/user-attachments/assets/0e3ba9e2-4b86-43eb-a39d-b626dc176152)
 
 ## 🎯 Market & Impact
